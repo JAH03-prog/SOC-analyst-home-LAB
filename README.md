@@ -69,6 +69,9 @@ Through this lab, I practiced and improved the following skills:
 
 ![Sentinel Attack Map](sentinel-map.jpeg)  
 
+-It did take a while for my virtual machine to be discovered(24hrs+), but once it was, it was attacked
+relentlessly primarily from the regions shown here
+
 
 ---
 
